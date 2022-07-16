@@ -1,0 +1,19 @@
+/* @theme theme-1 */
+
+@import 'default';
+
+p {
+    font-size: 24px;
+}
+
+pre {
+    font-size: 21px;
+}
+
+section.title-page {
+    text-align: center;
+}
+
+p.reference {
+    font-size: 15px;
+}
